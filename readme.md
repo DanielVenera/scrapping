@@ -1,9 +1,4 @@
-Hello
-Pour chaque exercice il y a un fichier spec dédié
+The Hacking Project Week 3
 
-Pour le 1er et le dernier j'ai laissé les méthodes perform si tu souhaites les tester comme ça ;)
-
-Merci 
-
-Daniel VENERA
+Ruby scrapping exercises
 
